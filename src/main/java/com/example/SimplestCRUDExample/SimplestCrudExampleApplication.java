@@ -12,6 +12,8 @@ public class SimplestCrudExampleApplication {
 
         System.out.println("TYpe");
         System.out.println("TYpe02");
+        System.out.println("TYpe02");
+
     }
 
 
