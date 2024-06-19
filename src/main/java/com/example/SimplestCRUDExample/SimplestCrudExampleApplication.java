@@ -9,7 +9,9 @@ public class SimplestCrudExampleApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(SimplestCrudExampleApplication.class, args);
+
         System.out.println("TYpe");
+        System.out.println("TYpe02");
     }
 
 
